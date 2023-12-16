@@ -1,7 +1,7 @@
 {
-  "name": "sonarqube-ec2",
+  "name": "aws-cdk-ctf",
   "author": "Santiago Garcia Arango",
-  "description": "SonarQube deployment on EC2 Instances and IaC on AWS-CDK.",
+  "description": "AWS deployment for CTF event hosted on top of EC2",
   "license": "Apache-2.0",
   "version": "1.0.0",
   "bin": {

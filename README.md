@@ -6,9 +6,12 @@ Custom hosting and creation of an exciting Capture The Flag (CTF) event, showcas
 
 Here are some images when hosting the live event:
 
-<img src="assets/image_00.png" width=80%> <br>
-<img src="assets/image_01.png" width=80%> <br>
-<img src="assets/image_02.png" width=80%> <br>
+<img src="assets/image_01.png" width=50%><img src="assets/image_02.png" width=50%>
+<br>
+<img src="assets/image_03.png" width=50%><img src="assets/image_04.png" width=50%>
+<br>
+<img src="assets/image_05.png" width=50%><img src="assets/image_06.png" width=50%>
+<br>
 
 ## Summary/Overview :memo:
 
